@@ -1,0 +1,4 @@
+C:/Users/Administrator/Desktop/tetgen1.5.1-beta1/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/tetgen1.5.1-beta1/build/CMakeFiles/tetgen.dir
+C:/Users/Administrator/Desktop/tetgen1.5.1-beta1/build/CMakeFiles/tet.dir
+C:/Users/Administrator/Desktop/tetgen1.5.1-beta1/build/CMakeFiles/rebuild_cache.dir

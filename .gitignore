@@ -1,0 +1,7 @@
+*.asv
+VisualizeMarshmallow/Convert/*.ele
+VisualizeMarshmallow/Convert/*.node
+VisualizeMarshmallow/Convert/*.smesh
+VisualizeMarshmallow/Convert/*.edge
+VisualizeMarshmallow/Convert/*.face
+VisualizeMarshmallow/cache/*.mat
